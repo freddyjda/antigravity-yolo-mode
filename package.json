@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/antigravity-yolo-mode"
+    "url": "https://github.com/freddyjda/antigravity-yolo-mode"
   },
   "contributes": {
     "commands": [
