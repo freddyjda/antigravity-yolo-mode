@@ -1,15 +1,18 @@
 # Antigravity YOLO Mode
 
-🏎️ **Auto-accept agent steps in Antigravity for maximum development speed.**
+🏎️ **Auto-accept terminal commands in Antigravity**
 
 ![YOLO Mode Icon](icon.png)
 
-## Features
+## ⚠️ Important
 
-- **Automatic Step Acceptance**: Automatically accepts Antigravity agent steps every 2 seconds
-- **Toggle On/Off**: Easily enable/disable YOLO mode via command palette
-- **Status Bar Indicator**: Visual feedback showing current YOLO mode state
-- **Auto-Start**: Activates automatically when VS Code starts
+**This extension ONLY auto-accepts terminal/console commands.** It does NOT automatically accept implementation plans - you still need to review those manually.
+
+## What it does
+
+- Runs `antigravity.agent.acceptAgentStep` every 2 seconds
+- Auto-starts when Antigravity launches
+- Toggle on/off with Command Palette → `YOLO: Toggle Auto-Accept`
 
 ## Installation
 

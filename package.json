@@ -1,7 +1,7 @@
 {
   "name": "antigravity-yolo-mode",
   "displayName": "Antigravity YOLO Mode",
-  "description": "Auto-Accept agent steps in Antigravity",
+  "description": "Auto-accept terminal commands in Antigravity (does not auto-approve plans)",
   "icon": "icon.png",
   "version": "1.0.0",
   "publisher": "freddyjda1",
