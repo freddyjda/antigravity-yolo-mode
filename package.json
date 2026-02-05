@@ -4,6 +4,7 @@
   "description": "Auto-Accept agent steps in Antigravity",
   "icon": "icon.png",
   "version": "1.5.0",
+  "publisher": "freddyjda1",
   "engines": {
     "vscode": "^1.80.0"
   },
